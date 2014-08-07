@@ -1,11 +1,11 @@
 {
   "name": "tb",
-  "repo": "kelonye/tb",
+  "repo": "bosco/tb",
   "version": "0.0.1",
   "license": "MIT",
   "description": "",
   "dependencies": {
-    "component/jquery": "1.9.1"
+    "components/jquery": "1.9.1"
   },
   "keywords": [
     "twitter",
